@@ -3,7 +3,7 @@
   "description": "Import a Drupal7 website into Knowfox.",
   "type": "library",
   "require": {
-    "illuminate/support": "^5.5"
+    "illuminate/support": "^8.0"
   },
   "license": "GPL-3.0-or-later",
   "authors": [
